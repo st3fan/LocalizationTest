@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="LocalizationTest/AppDelegate.strings" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="Hello, %@! Welcome to %@!">
+        <source>Hello, %1$@! Welcome to %2$@!</source>
+        <target>Bonjour, %1$@! Bienvenue à %2$@!</target>
+        <note>Welcome message when the app starts</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationTest/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2014 Stefan Arentz. All rights reserved.</source>
+        <target>  Copyright (c) 2014 Stefan Arentz. All rights reserved.</target>
+        <note>Class = "IBUILabel"; text = "  Copyright (c) 2014 Stefan Arentz. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+      <trans-unit id="kId-c2-rCX.text">
+        <source>LocalizationTest</source>
+        <target>LocalizationTest</target>
+        <note>Class = "IBUILabel"; text = "LocalizationTest"; ObjectID = "kId-c2-rCX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationTest/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body/>
+  </file>
+  <file original="LocalizationTest/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="LocalizationTestTests/Info.plist" source-language="en" datatype="plaintext" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.1.1" build-num="6A2008a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

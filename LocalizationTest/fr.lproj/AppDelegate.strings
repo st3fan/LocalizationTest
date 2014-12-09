@@ -1,0 +1,3 @@
+/* Welcome message when the app starts */
+"Hello, %@! Welcome to %@!" = "Bonjour, %1$@! Bienvenue à %2$@!";
+
